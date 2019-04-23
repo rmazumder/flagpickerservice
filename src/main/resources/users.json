@@ -1,0 +1,1 @@
+[{"username":"ruhul","password":"pwd","roles":[{"roleName":"ADMIN","description":"admin role"},{"roleName":"USER","description":"user role"}]},{"username":"john","password":"pwd","roles":[{"roleName":"USER","description":"user role"}]}]

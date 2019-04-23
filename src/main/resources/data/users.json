@@ -1,0 +1,26 @@
+[
+  {
+    "username": "ruhul",
+    "password": "$2a$10$osWTQvIRT/NwTuCqDvBAxO.lqptt7pw1BRlVMX2.FM8yLVBiYBwTu",
+    "roles": [
+      {
+        "roleName": "ADMIN",
+        "description": "admin role"
+      },
+      {
+        "roleName": "USER",
+        "description": "user role"
+      }
+    ]
+  },
+  {
+    "username": "john",
+    "password": "$2a$10$osWTQvIRT/NwTuCqDvBAxO.lqptt7pw1BRlVMX2.FM8yLVBiYBwTu",
+    "roles": [
+      {
+        "roleName": "USER",
+        "description": "user role"
+      }
+    ]
+  }
+]
